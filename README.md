@@ -2,7 +2,7 @@
 Just an example directory structure for python projects.
 
 ## Installation:
-No need installation.
+No need installation. Make a clone or download the zip file for the main project folder.
 
 ## Usage:
 ### Folders:
