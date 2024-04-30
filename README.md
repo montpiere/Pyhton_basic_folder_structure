@@ -1,5 +1,5 @@
-Program strucure
-================
+One of a basic sample folder structure for Python projects.
+
 ### Folders:
 #### config/
 - configuration files (csv, py, json, ..) 
