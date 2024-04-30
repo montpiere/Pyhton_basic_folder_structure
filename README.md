@@ -1,18 +1,16 @@
 ## Description:
 
----
-Just an example directory structure for python projects.
+Just an example directory structure for python projects, how I use.
 
 
 ## Installation:
-Instructions on how to install and set up the project, including any prerequisites and dependencies.
+_Instructions on how to install and set up the project, including any prerequisites and dependencies._
 
 ## Usage:
 
----
 Examples and instructions on how to use the project, such as running scripts or calling functions.
 
-### Folders:
+#### Folders:
 - **config/** - _Configuration files (csv, py, json, ..)_ 
 - **data/** - _Datafiles (databases, csv, txt, ..)_
 - **docs/** - _Documentation for project. This can include both user documentation and developer documentation.
@@ -20,7 +18,7 @@ Examples and instructions on how to use the project, such as running scripts or 
 - **src/**- _All other python source codes, modules, scripts, .._
 - **tests/** - _Folder for test files_
 - **tools/** - _Other scripts whiches not part of the application but needed is for support it
-### Files:
+#### Files:
 - gitignore  
 - README.md - _The main documentation for the project_
 - main.py - _Entry point of the project_
@@ -29,35 +27,28 @@ way to specify which packages your project needs and their versions._
 
 ## Configuration:
 
----
-Details on how to configure the project to suit your needs, if applicable.
+_Details on how to configure the project to suit your needs, if applicable._
 
 ## Contributing:
 
----
-Information on how to contribute to the project, including guidelines for code contributions, pull requests, and issue tracking.
+_Information on how to contribute to the project, including guidelines for code contributions, pull requests, and issue tracking._
 
 ## License:
 
----
-Information about the project's licensing, often with a link to the full license text.
+_Information about the project's licensing, often with a link to the full license text._
 
 ## Authors:
 
----
-Information about the project's authors and maintainers.
+_Information about the project's authors and maintainers._
 
 ## Acknowledgments:
 
----
-Credit to any libraries or projects used within the project, as well as any individuals who have contributed.
+_Credit to any libraries or projects used within the project, as well as any individuals who have contributed._
 
 ## Changelog:
 
----
-A list of recent changes and updates to the project.
+_A list of recent changes and updates to the project._
 
 ## Resources:
 
----
-Links to additional resources such as official documentation, forums, or support channels.
+_Links to additional resources such as official documentation, forums, or support channels._

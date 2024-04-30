@@ -1,6 +1,5 @@
 # Application name
 
----
 - [Application name](#application-name)
   - [Description](#description)
   - [Installation](#installation)
