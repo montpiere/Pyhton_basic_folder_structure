@@ -1,14 +1,11 @@
 ## Description:
 
-Just an example directory structure for python projects, how I use.
-
+Just an example directory structure for python projects.
 
 ## Installation:
-_Instructions on how to install and set up the project, including any prerequisites and dependencies._
+No need installation.
 
 ## Usage:
-
-Examples and instructions on how to use the project, such as running scripts or calling functions.
 
 #### Folders:
 - **config/** - _Configuration files (csv, py, json, ..)_ 
@@ -19,19 +16,19 @@ Examples and instructions on how to use the project, such as running scripts or 
 - **tests/** - _Folder for test files_
 - **tools/** - _Other scripts whiches not part of the application but needed is for support it
 #### Files:
-- gitignore  
-- README.md - _The main documentation for the project_
-- main.py - _Entry point of the project_
-- requirements.txt - _Dependencies (libraries and packages) required for the project to run. It is a common 
+- **gitignore** - _Specifies intentionally untracked files and directories that Git should ignore._
+- **README.md** - _The main documentation for the project_
+- **main.py** - _Entry point of the project_
+- **requirements.txt** - _Dependencies (libraries and packages) required for the project to run. It is a common 
 way to specify which packages your project needs and their versions._
 
 ## Configuration:
 
-_Details on how to configure the project to suit your needs, if applicable._
+No need configuration.
 
 ## Contributing:
 
-_Information on how to contribute to the project, including guidelines for code contributions, pull requests, and issue tracking._
+If you would like to contribute, feel free to report issues, start new discussions, or create pull requests.
 
 ## License:
 
@@ -51,4 +48,5 @@ _A list of recent changes and updates to the project._
 
 ## Resources:
 
-_Links to additional resources such as official documentation, forums, or support channels._
+- [Python Packaging User Guide - Src layout vs flat layout](https://packaging.python.org/en/latest/discussions/src-layout-vs-flat-layout/)
+- [The Hitchhiker’s Guide to Python - Structuring Your Project](https://docs.python-guide.org/writing/structure/)

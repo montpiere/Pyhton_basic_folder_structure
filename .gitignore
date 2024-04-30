@@ -1,1 +1,55 @@
-/.idea
+## Byte-compiled / optimized / DLL files
+#__pycache__/
+#*.pyc
+#*.pyo
+#*.pyd
+
+## C extensions
+#*.so
+
+## Virtual environments
+#venv/
+#env/
+#venv.bak/
+
+## Distribution / packaging
+#build/
+#dist/
+#*.egg-info/
+#*.egg
+
+## Test and coverage reports
+#htmlcov/
+#.tox/
+#.coverage
+#.pytest_cache/
+#nosetests.xml
+
+## Jupyter Notebook checkpoints
+#.ipynb_checkpoints/
+
+## IDE and editor settings
+#.vscode/
+#.idea/
+#*.sublime-project
+#*.sublime-workspace
+
+## PyCharm project settings
+#*.iml
+#*.iws
+
+## Temporary files
+#*~
+#*.swp
+
+## Logs and caches
+#logs/
+#.cache/
+
+## Output and data directories
+#output/
+#data/
+
+## Hidden system files
+#.DS_Store
+#Thumbs.db
