@@ -24,7 +24,7 @@ way to specify which packages your project needs and their versions_
 If you would like to contribute, feel free to report issues, start new discussions, or create pull requests.
 
 ## License:
-_Information about the project's licensing, often with a link to the full license text._
+_*Information about the project's licensing, often with a link to the full license text._
 
 ## Resources:
 - [Python Packaging User Guide - Src layout vs flat layout](https://packaging.python.org/en/latest/discussions/src-layout-vs-flat-layout/)
