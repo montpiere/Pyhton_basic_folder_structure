@@ -12,12 +12,14 @@ No need installation. Make a clone or download the zip file for the main project
 (md, csv, txt, jpg, psd, etc.)_
 - **src/**- _All other python source codes, modules, scripts_
 - **tests/** - _Folder for test files_
-- **tools/** - _Other scripts which not part of the application but needed is for support it
+- **tools/** - _Other scripts which not part of the application but needed is for support it_
 ### Files:
 - **gitignore** - _Specifies intentionally untracked files and directories that Git should ignore_
 - **README.md** - _The main documentation for the project_
 - **main.py** - _Entry point of the project_
-- **requirements.txt** - _Dependencies (libraries and packages) required for the project to run. It is a common 
+- **setup.py** - _Describe your module distribution to the Distutils_
+- **LICENSE.txt** - _Specifies the terms and conditions_
+- **requirements.txt** - _Dependencies (libraries and packages) required for the project to run. It is a common
 way to specify which packages your project needs and their versions_
 
 ## Contributing:
@@ -29,3 +31,4 @@ _*Information about the project's licensing, often with a link to the full licen
 ## Resources:
 - [Python Packaging User Guide - Src layout vs flat layout](https://packaging.python.org/en/latest/discussions/src-layout-vs-flat-layout/)
 - [The Hitchhiker’s Guide to Python - Structuring Your Project](https://docs.python-guide.org/writing/structure/)
+- [Writing the Setup Script](https://docs.python.org/3.11/distutils/setupscript.html)
