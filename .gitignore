@@ -30,7 +30,7 @@
 
 ## IDE and editor settings
 #.vscode/
-#.idea/
+.idea/
 #*.sublime-project
 #*.sublime-workspace
 

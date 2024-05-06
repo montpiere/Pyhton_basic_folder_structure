@@ -1,8 +1,8 @@
 ## Description:
-Just an example directory structure for python projects.
+Example directory structure for python projects.
 
 ## Installation:
-No need installation. Make a clone or download the zip file for the main project folder.
+Make a clone or download the zip file for the main project folder.
 
 ## Usage:
 ### Folders:
@@ -22,13 +22,13 @@ No need installation. Make a clone or download the zip file for the main project
 - **requirements.txt** - _Dependencies (libraries and packages) required for the project to run. It is a common
 way to specify which packages your project needs and their versions_
 
-## Contributing:
-If you would like to contribute, feel free to report issues, start new discussions, or create pull requests.
+If you don't need any of them, just leave them out.
 
-## License:
-_*Information about the project's licensing, often with a link to the full license text._
+## Contributing:
+If you have any advice or like to contribute, feel free to report issues, start new discussions, or create pull requests.
 
 ## Resources:
-- [Python Packaging User Guide - Src layout vs flat layout](https://packaging.python.org/en/latest/discussions/src-layout-vs-flat-layout/)
 - [The Hitchhiker’s Guide to Python - Structuring Your Project](https://docs.python-guide.org/writing/structure/)
+- [Python Packaging User Guide - Src layout vs flat layout](https://packaging.python.org/en/latest/discussions/src-layout-vs-flat-layout/)
 - [Writing the Setup Script](https://docs.python.org/3.11/distutils/setupscript.html)
+- [Python Application Layouts](https://realpython.com/python-application-layouts/)
