@@ -21,7 +21,8 @@ Make a clone or download the zip file for the main project folder.
 - **LICENSE.txt** - _Specifies the terms and conditions_
 - **requirements.txt** - _Dependencies (libraries and packages) required for the project to run. It is a common
 way to specify which packages your project needs and their versions_
-
+- **setup.bat** - _Batch file that creates a virtual environment and install packages in it from requirements.txt_
+- **run.bat** - _Batch file that runs the python main.py script in virtual environment_
 If you don't need any of them, just leave them out.
 
 ## Contributing:
